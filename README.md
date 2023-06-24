@@ -8,7 +8,7 @@ This project demonstrates how to run an HTML file on a simple web server using E
 
 ## USAGE/API
 
-Examples:
+Example Usage:
 
 ```js
 import init from "live-html-server";
@@ -19,7 +19,7 @@ init({
 });
 ```
 
-## EXAMPLE
+## EXAMPLE RUN
 
 - `npm install`
 - `npm run start`
